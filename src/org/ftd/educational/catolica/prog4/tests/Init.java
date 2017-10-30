@@ -56,7 +56,7 @@ public class Init {
 //            System.out.println("Não encontrei o objeto no banco!");
 //        }
         
-        userAuthenticateTest("miiller@gmail.com", "213yeezygang");
+        userAuthenticateTest("miiller@gmail.com", "1");
 
 //        System.out.println("Contei " + dao.getUserCount() + " User(s).");
 //        findAllUser();
